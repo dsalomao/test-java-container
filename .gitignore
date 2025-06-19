@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Submodule Symlinks ###
+.devcontainer
+docker-compose.yml
